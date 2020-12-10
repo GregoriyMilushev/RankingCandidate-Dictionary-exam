@@ -1,0 +1,11 @@
+C:\Users\Edi\source\repos\DictionaryExercise\RankingContest\bin\Debug\netcoreapp2.1\RankingContest.deps.json
+C:\Users\Edi\source\repos\DictionaryExercise\RankingContest\bin\Debug\netcoreapp2.1\RankingContest.runtimeconfig.json
+C:\Users\Edi\source\repos\DictionaryExercise\RankingContest\bin\Debug\netcoreapp2.1\RankingContest.runtimeconfig.dev.json
+C:\Users\Edi\source\repos\DictionaryExercise\RankingContest\bin\Debug\netcoreapp2.1\RankingContest.dll
+C:\Users\Edi\source\repos\DictionaryExercise\RankingContest\bin\Debug\netcoreapp2.1\RankingContest.pdb
+C:\Users\Edi\source\repos\DictionaryExercise\RankingContest\obj\Debug\netcoreapp2.1\RankingContest.csprojAssemblyReference.cache
+C:\Users\Edi\source\repos\DictionaryExercise\RankingContest\obj\Debug\netcoreapp2.1\RankingContest.csproj.CoreCompileInputs.cache
+C:\Users\Edi\source\repos\DictionaryExercise\RankingContest\obj\Debug\netcoreapp2.1\RankingContest.AssemblyInfoInputs.cache
+C:\Users\Edi\source\repos\DictionaryExercise\RankingContest\obj\Debug\netcoreapp2.1\RankingContest.AssemblyInfo.cs
+C:\Users\Edi\source\repos\DictionaryExercise\RankingContest\obj\Debug\netcoreapp2.1\RankingContest.dll
+C:\Users\Edi\source\repos\DictionaryExercise\RankingContest\obj\Debug\netcoreapp2.1\RankingContest.pdb
